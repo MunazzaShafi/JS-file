@@ -1,2 +1,2 @@
-# JS-file
+# JS-project
 freshie project with javascript
